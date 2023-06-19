@@ -16,7 +16,7 @@ body {
   font-size: 10px;
   width: 15%;
   margin: auto;
-  animation: rotateAnimation 15s infinite linear;
+  animation: rotateAnimation 10s infinite linear;
 }
 
 @keyframes rotateAnimation {
